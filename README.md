@@ -40,7 +40,7 @@ Edit
 cd your-repo-name
 Install dependencies (if any):
 
-bash![HW4 CSE 4050](https://github.com/user-attachments/assets/b17c7ab6-8a19-4317-a446-1eaa0bf2a956)
+bash!
 
 Copy
 Edit
@@ -53,4 +53,4 @@ Edit
 npm start
 
 📸 Screenshot
-![Uploading HW4 CSE 4050.png…]()
+[HW4 CSE 4050](https://github.com/user-attachments/assets/b17c7ab6-8a19-4317-a446-1eaa0bf2a956)

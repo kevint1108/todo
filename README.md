@@ -53,4 +53,4 @@ Edit
 npm start
 
 📸 Screenshot
-[HW4 CSE 4050](https://github.com/user-attachments/assets/b17c7ab6-8a19-4317-a446-1eaa0bf2a956)
+![HW4 CSE 4050](https://github.com/user-attachments/assets/22b1b6b1-78f1-4282-9d0d-cabd4b381aff)
